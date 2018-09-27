@@ -1,0 +1,7 @@
+# Requirements for virtualenv
+numpy
+scipy
+matplotlib
+pandas
+sklearn
+jupyter
